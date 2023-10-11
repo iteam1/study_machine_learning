@@ -10,6 +10,8 @@ pratice data science
 
 [Development with Large Language Models Tutorial – OpenAI, Langchain, Agents, Chroma](https://www.youtube.com/watch?v=xZDB1naRUlk)
 
+[Datawars](https://www.datawars.io/articles/pandas-data-science-by-example-freecodecamp-video-series)
+
 [Real World Data Cleaning in Python Pandas (Step By Step)](https://www.youtube.com/watch?v=iaZQF8SLHJs)
 
 [Pandas & Python for Data Analysis by Example – Full Course for Beginners](https://youtu.be/gtjxAH8uaP0?si=6o1N6zyyytWaQbVL)
