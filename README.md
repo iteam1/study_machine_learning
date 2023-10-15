@@ -8,9 +8,9 @@ pratice data science
 
 1. DataFrames practice: working with English Word (20 mins) ☑
 
-2. Filtering and Sorting Pokemon Data (30 mins)
+2. Filtering and Sorting Pokemon Data (30 mins) ☑
 
-3. The Birthday Paradox in the NBA (30 mins)
+3. The Birthday Paradox in the NBA (30 mins) ☑
 
 **Data Cleaning Projects**
 
