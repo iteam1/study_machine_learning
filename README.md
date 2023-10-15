@@ -14,9 +14,9 @@ pratice data science
 
 **Data Cleaning Projects**
 
-4. Matching Strings by Similarity using Levenshtein distance
+4. Matching Strings by Similarity using Levenshtein distance ☑
 
-5. Cleaning Google Playstore data
+5. Cleaning Google Playstore data ☑
 
 **Data wrangling Projects**
 
@@ -25,6 +25,10 @@ pratice data science
 7. Capstone Project: NBA 2017 season analysis
 
 # references
+
+[missingno-github](https://github.com/ResidentMario/missingno)
+
+[Levenshtein_distance](https://en.wikipedia.org/wiki/Levenshtein_distance)
 
 [LangChain Explained in 13 Minutes | QuickStart Tutorial for Beginners](https://www.youtube.com/watch?v=aywZrzNaKjs)
 
