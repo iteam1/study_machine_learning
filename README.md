@@ -26,6 +26,10 @@ pratice data science
 
 # references
 
+[Spark Full Course | Spark Tutorial For Beginners | Learn Apache Spark | Simplilearn](https://www.youtube.com/watch?v=S2MUhGA3lEw)
+
+[Master Databricks and Apache Spark Step by Step: Series Overview](https://www.youtube.com/watch?v=ChISx0-cMpU&list=PL7_h0bRfL52qWoCcS18nXcT1s-5rSa1yp&index=1)
+
 [missingno-github](https://github.com/ResidentMario/missingno)
 
 [Levenshtein_distance](https://en.wikipedia.org/wiki/Levenshtein_distance)
