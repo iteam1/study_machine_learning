@@ -26,6 +26,8 @@ pratice data science
 
 # references
 
+[Pyspark Tutorials 1 | Introduction to the Big Data and Hadoop Map Reduce](https://www.youtube.com/watch?v=AGgyf9bO_8M&list=PLlUZLZydkS7_8WnK8fMENmJFSfPwxw9Fi&index=1)
+
 [Spark Full Course | Spark Tutorial For Beginners | Learn Apache Spark | Simplilearn](https://www.youtube.com/watch?v=S2MUhGA3lEw)
 
 [Master Databricks and Apache Spark Step by Step: Series Overview](https://www.youtube.com/watch?v=ChISx0-cMpU&list=PL7_h0bRfL52qWoCcS18nXcT1s-5rSa1yp&index=1)
