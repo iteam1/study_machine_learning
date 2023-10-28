@@ -26,6 +26,8 @@ pratice data science
 
 # references
 
+[practical-statistics-for-data-scientists](https://github.com/gedeck/practical-statistics-for-data-scientists)
+
 [Pyspark Tutorials 1 | Introduction to the Big Data and Hadoop Map Reduce](https://www.youtube.com/watch?v=AGgyf9bO_8M&list=PLlUZLZydkS7_8WnK8fMENmJFSfPwxw9Fi&index=1)
 
 [Spark Full Course | Spark Tutorial For Beginners | Learn Apache Spark | Simplilearn](https://www.youtube.com/watch?v=S2MUhGA3lEw)
