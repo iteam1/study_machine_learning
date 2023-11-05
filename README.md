@@ -20,9 +20,9 @@ pratice data science
 
 **Data wrangling Projects**
 
-6. Analyzing Premier League match results by combining DataFrames
+6. Analyzing Premier League match results by combining DataFrames ☑
 
-7. Capstone Project: NBA 2017 season analysis
+7. Capstone Project: NBA 2017 season analysis ☑
 
 # references
 
