@@ -26,23 +26,25 @@ pratice data science
 
 # references
 
-[practical-statistics-for-data-scientists](https://github.com/gedeck/practical-statistics-for-data-scientists)
-
 [Pyspark Tutorials 1 | Introduction to the Big Data and Hadoop Map Reduce](https://www.youtube.com/watch?v=AGgyf9bO_8M&list=PLlUZLZydkS7_8WnK8fMENmJFSfPwxw9Fi&index=1)
 
 [Spark Full Course | Spark Tutorial For Beginners | Learn Apache Spark | Simplilearn](https://www.youtube.com/watch?v=S2MUhGA3lEw)
 
 [Master Databricks and Apache Spark Step by Step: Series Overview](https://www.youtube.com/watch?v=ChISx0-cMpU&list=PL7_h0bRfL52qWoCcS18nXcT1s-5rSa1yp&index=1)
 
-[missingno-github](https://github.com/ResidentMario/missingno)
-
-[Levenshtein_distance](https://en.wikipedia.org/wiki/Levenshtein_distance)
+---
 
 [LangChain Explained in 13 Minutes | QuickStart Tutorial for Beginners](https://www.youtube.com/watch?v=aywZrzNaKjs)
 
 [Create a Large Language Model from Scratch with Python – Tutorial](https://www.youtube.com/watch?v=UU1WVnMk4E8)
 
 [Development with Large Language Models Tutorial – OpenAI, Langchain, Agents, Chroma](https://www.youtube.com/watch?v=xZDB1naRUlk)
+
+---
+
+[practical-statistics-for-data-scientists](https://github.com/gedeck/practical-statistics-for-data-scientists)
+
+[Rdatasets](https://vincentarelbundock.github.io/Rdatasets/articles/data.html)
 
 [pandas-docs](https://pandas.pydata.org/docs/reference/index.html)
 
@@ -53,3 +55,9 @@ pratice data science
 [Pandas & Python for Data Analysis by Example – Full Course for Beginners](https://youtu.be/gtjxAH8uaP0?si=6o1N6zyyytWaQbVL)
 
 [ Excel Data Analytics Full Course | Essential Skills For Data Analysis In Excel | Simplilearn - 4h ](https://www.youtube.com/watch?v=OOWAk2aLEfk)
+
+---
+
+[missingno-github](https://github.com/ResidentMario/missingno)
+
+[Levenshtein_distance](https://en.wikipedia.org/wiki/Levenshtein_distance)
