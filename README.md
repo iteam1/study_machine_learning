@@ -18,6 +18,8 @@ Machine learning practices
 
 ---
 
+[Apache Spark Full Course 2024 | Learn Apache Spark | Apache Spark Tutorial | Edureka](https://www.youtube.com/watch?v=xDEzSxlsUpU)
+
 [Spark](https://www.youtube.com/watch?v=BihNWmoGf7c&list=PLDBADHjR9XKkVaFb4dUIwVWILNccq4xgp&index=2)
 
 [Pyspark Tutorials 1 | Introduction to the Big Data and Hadoop Map Reduce](https://www.youtube.com/watch?v=AGgyf9bO_8M&list=PLlUZLZydkS7_8WnK8fMENmJFSfPwxw9Fi&index=1)
