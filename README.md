@@ -26,8 +26,6 @@ Machine learning practices
 
 [Spark Full Course | Spark Tutorial For Beginners | Learn Apache Spark | Simplilearn](https://www.youtube.com/watch?v=S2MUhGA3lEw)
 
-[Master Databricks and Apache Spark Step by Step: Series Overview](https://www.youtube.com/watch?v=ChISx0-cMpU&list=PL7_h0bRfL52qWoCcS18nXcT1s-5rSa1yp&index=1)
-
 ---
 
 [practical-statistics-for-data-scientists](https://github.com/gedeck/practical-statistics-for-data-scientists)
