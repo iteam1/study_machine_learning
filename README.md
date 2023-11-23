@@ -18,8 +18,6 @@ Machine learning practices
 
 ---
 
-[Spark-documents](https://spark.apache.org/docs/latest/)
-
 [Apache Spark Full Course 2024 | Learn Apache Spark | Apache Spark Tutorial | Edureka](https://www.youtube.com/watch?v=xDEzSxlsUpU)
 
 [Spark](https://www.youtube.com/watch?v=BihNWmoGf7c&list=PLDBADHjR9XKkVaFb4dUIwVWILNccq4xgp&index=2)

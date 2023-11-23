@@ -1,5 +1,7 @@
 __pycache__
+.vscode
 .ipynb_checkpoints
+.metals
 
 *.tar
 *.rar

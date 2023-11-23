@@ -6,7 +6,9 @@
 
 `java --version`
 
-`sudo apt install scal`
+`wget https://downloads.lightbend.com/scala/2.13.4/scala-2.13.4.deb`
+
+`sudo dpkg -i scala-2.13.4.deb`
 
 `scala`
 
