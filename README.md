@@ -2,6 +2,14 @@
 
 Machine learning practices
 
+1. Java
+2. Spark
+3. Scala
+4. PySpark
+5. AWS
+6. DataWars
+7. Torch
+
 # Courses
 
 [practical-statistics-for-data-scientists](https://github.com/gedeck/practical-statistics-for-data-scientists)
