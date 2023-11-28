@@ -4,30 +4,6 @@ Machine learning practices
 
 # Courses
 
-[Create a Large Language Model from Scratch with Python – Tutorial ](https://www.youtube.com/watch?v=UU1WVnMk4E8)
-
-[LangChain Crash Course for Beginners](https://www.youtube.com/watch?v=lG7Uxts9SXs)
-
-[Natural Language Processing with spaCy & Python - Course for Beginners](https://www.youtube.com/watch?v=dIUTsFT2MeQ)
-
-[Finalizing the Holocaust NER Pipeline (Named Entity Recognition for DH 09.07)](https://www.youtube.com/watch?v=E9h8qVm2uNY&list=PL2VXyKi-KpYs1bSnT8bfMFyGS-wMcjesM)
-
-[Training Series - Create a Knowledge Graph: A Simple ML Approach](https://www.youtube.com/watch?v=nYQLp7itZx8)
-
-[End To End NLP Project Implementation With Deployment Github Action- Text Summarization- Krish Naik](https://www.youtube.com/watch?v=p7V4Aa7qEpw)
-
----
-
-[Apache Spark Full Course 2024 | Learn Apache Spark | Apache Spark Tutorial | Edureka](https://www.youtube.com/watch?v=xDEzSxlsUpU)
-
-[Spark](https://www.youtube.com/watch?v=BihNWmoGf7c&list=PLDBADHjR9XKkVaFb4dUIwVWILNccq4xgp&index=2)
-
-[Pyspark Tutorials 1 | Introduction to the Big Data and Hadoop Map Reduce](https://www.youtube.com/watch?v=AGgyf9bO_8M&list=PLlUZLZydkS7_8WnK8fMENmJFSfPwxw9Fi&index=1)
-
-[Spark Full Course | Spark Tutorial For Beginners | Learn Apache Spark | Simplilearn](https://www.youtube.com/watch?v=S2MUhGA3lEw)
-
----
-
 [practical-statistics-for-data-scientists](https://github.com/gedeck/practical-statistics-for-data-scientists)
 
 [Rdatasets](https://vincentarelbundock.github.io/Rdatasets/articles/data.html)
