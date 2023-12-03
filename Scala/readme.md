@@ -1,3 +1,20 @@
+# install scala
+
+`sudo apt-get update`
+
+`sudo apt install openjdk-17-jdk`
+
+`java --version`
+
+`wget https://downloads.lightbend.com/scala/2.13.4/scala-2.13.4.deb`
+
+`sudo dpkg -i scala-2.13.4.deb`
+
+`scala`
+
+# guides
+Check command `javac --version`, `java --version`, `scalac --version`, `scala --version`
+
 # content
 
 ## Introduction
@@ -56,10 +73,14 @@
 - Scala
 - Abstract Classes
 
-# scala
+# references
+
+[Scala Exercises, Practice, Solution](https://www.w3resource.com/scala-exercises/index.php)
 
 [Scala Programming Full Course | Scala tutorial For Beginners | Part 2](https://www.youtube.com/watch?v=t1c-F2qp-xk)
 
 [Scala Programming Full Course | Scala tutorial For Beginners | Part 1](https://www.youtube.com/watch?v=tamJAEtSEEo)
 
 [Scala Tutorial](https://www.tutorialspoint.com/scala/index.htm)
+
+[scala-lang](https://www.scala-lang.org/)

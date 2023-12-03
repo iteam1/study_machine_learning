@@ -8,5 +8,7 @@ Run java class `java <java_class>`
 
 # references
 
+https://www.w3resource.com/java-exercises/
+
 https://www.w3schools.com/java/java_intro.asp
 
