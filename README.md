@@ -4,14 +4,14 @@ Machine learning practices
 
 |No|Name|Basic|Intermediate|Advance|
 |---|---|---|---|---|
-|1.|Java| ☑|☒|☒|
-|2.|Scala| ☒|☒|☒|
-|3.|Spark| ☒|☒|☒|
-|4.|AWS| ☒|☒|☒|
-|5.|Torch| ☑|☒|☒|
-|6.|PySpark| ☒|☒|☒|
-|7.|DataWars| ☑|☒|☒|
-|8.|Langchain| ☒|☒|☒|
+|1.|Java| ✅|☒|☒|
+|2.|Scala|☒|☒|☒|
+|3.|Spark|☒|☒|☒|
+|4.|AWS|☒|☒|☒|
+|5.|Torch|☒|☒|☒|
+|6.|PySpark|☒|☒|☒|
+|7.|DataWars|✅|☒|☒|
+|8.|Langchain|☒|☒|☒|
 
 # Courses
 
