@@ -13,7 +13,21 @@
 `scala`
 
 # guides
-Check command `javac --version`, `java --version`, `scalac --version`, `scala --version`
+- Check command `javac --version`, `java --version`, `scalac --version`, `scala --version`
+
+- Run command `scala <script_name>.scala`
+
+- Compile the app `scalac <app_name>.scala`
+
+- Compile the app organize `scalac -d classes src/*.scala`
+
+- Inspect class file `javap -p <class_name>`
+
+*Note:*
+- Run scala file as script, you can not compile
+- Compile scale file, you can not run as script
+
+
 
 # content
 
