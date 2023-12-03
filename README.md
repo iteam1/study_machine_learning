@@ -2,13 +2,16 @@
 
 Machine learning practices
 
-1. Java
-2. Spark
-3. Scala
-4. PySpark
-5. AWS
-6. DataWars
-7. Torch
+|No|Name|Basic|Intermediate|Advance|
+|---|---|---|---|---|
+|1.|Java| ☑|☒|☒|
+|2.|Scala| ☒|☒|☒|
+|3.|Spark| ☒|☒|☒|
+|4.|AWS| ☒|☒|☒|
+|5.|Torch| ☑|☒|☒|
+|6.|PySpark| ☒|☒|☒|
+|7.|DataWars| ☑|☒|☒|
+|8.|Langchain| ☒|☒|☒|
 
 # Courses
 
