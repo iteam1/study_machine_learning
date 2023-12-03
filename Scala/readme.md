@@ -27,7 +27,7 @@
 - Run scala file as script, you can not compile
 - Compile scale file, you can not run as script
 
-
+- Go to scala REPL shell `scala`
 
 # content
 
