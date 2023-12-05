@@ -37,6 +37,11 @@ Verify the Installation `spark-shell`
 
 Go to UI `http://localhost:4041/jobs/`
 
+# guide
+
+- compile `scala` file: `scalac <your_file>.scala`
+- Run compile `scala <your_class>`
+
 # spark
 
 [Spark-download](https://spark.apache.org/downloads.html)
