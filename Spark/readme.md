@@ -52,6 +52,5 @@ Go to UI `http://localhost:4041/jobs/`
 
 [Spark](https://www.youtube.com/watch?v=BihNWmoGf7c&list=PLDBADHjR9XKkVaFb4dUIwVWILNccq4xgp&index=2)
 
-[Pyspark Tutorials 1 | Introduction to the Big Data and Hadoop Map Reduce](https://www.youtube.com/watch?v=AGgyf9bO_8M&list=PLlUZLZydkS7_8WnK8fMENmJFSfPwxw9Fi&index=1)
 
 [Spark Full Course | Spark Tutorial For Beginners | Learn Apache Spark | Simplilearn](https://www.youtube.com/watch?v=S2MUhGA3lEw)

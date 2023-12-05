@@ -1,0 +1,3 @@
+Installing Scala language is manatory before installing
+Spark as it is important implementation
+Following command will verify the version of Scala
