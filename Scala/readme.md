@@ -44,7 +44,7 @@
 - Creating A Script In Scala 
 - Creating An Application In Scala
 
-## cala Basics
+## Scala Basics
 - val And var
 - Lazy val
 - Bending Variables And Values To Your Will
