@@ -1,4 +1,5 @@
 class Employee(val firstName:String, val lastName:String, val title:String){
+    
     def fullName = s"$firstName $lastName"
 
     def copy(firstName:String = this.firstName,
@@ -12,20 +13,19 @@ class Deparment(val name:String)
 
 // no val or var define for inheritance fields
 class Manager(firstName:String, lastName:String,
-title:String, val deparment:Deparment) extends Employee(firstName,lastName,title)
+title:String, val deparment:Deparment) extends Employee(firstName,lastName,title){
 
+    override def fullName = s"$firstName $lastName, ${deparment.name} Manager"   
+}
 
-val mathemtics = new Deparment("Mathematics")
+val company = new Deparment("Iteam1")
 
-// reference instance point ot Manager class
-val alan:Manager = new Manager("Alan","Turing","Mathematican", mathemtics)
-println(alan.deparment.name)
+val jessie = new Employee(firstName="Jessie",
+lastName="Ly", title="HR")
 
-val alanEmployee:Employee = alan
+val denny = new Manager(firstName="Robby",
+lastName="Dennis", title="Leader", deparment=company)
 
-println(alan.firstName)
-println(alanEmployee.firstName)
+println(jessie.fullName)
 
-def extractFirstName(e:Employee) = e.firstName
-
-println(extractFirstName(alan))
+println(denny.fullName)
