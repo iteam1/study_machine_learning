@@ -1,5 +1,37 @@
 # AWS
 
+⌨️ Introduction
+⌨️ Cloud Concepts
+⌨️ Getting Started
+⌨️ Digital Transformation
+⌨️ The Benefits of the Cloud
+⌨️ Global Infrastructure
+⌨️ Cloud Architecture
+⌨️ Management and Developers Tools
+⌨️ Shared Responsibility Model
+⌨️ Compute
+⌨️ Storage
+⌨️ Databases
+⌨️ Networking
+⌨️ EC2
+⌨️ EC2 Pricing Models
+⌨️ Identity
+⌨️ Application Integration
+⌨️ Containers
+⌨️ Goverance
+⌨️ Provisioning
+⌨️ Serverless
+⌨️ Windows on AWS
+⌨️ Logging
+⌨️ ML AI BigData
+⌨️ AWS Well Architected Framework
+⌨️ TCO and Migration
+⌨️ Billing and Pricing
+⌨️ Security
+⌨️ Variation Study
+
+# references
+
 [certified-cloud-practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
 [aws-certmetrics](https://www.certmetrics.com/amazon/default.aspx)
