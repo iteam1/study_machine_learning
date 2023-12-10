@@ -1,14 +1,14 @@
 # AWS
 
-1. Introduction
+1. Introduction ✅
 
-2. Cloud Concepts
+2. Cloud Concepts ✅
 
-3. Getting Started
+3. Getting Started ✅
 
-4. Digital Transformation
+4. Digital Transformation ✅
 
-5. The Benefits of the Cloud
+5. The Benefits of the Cloud ✅
 
 6. Global Infrastructure
 
