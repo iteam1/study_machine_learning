@@ -60,7 +60,9 @@
 
 # references
 
-[aws-sdk](https://aws.amazon.com/developer/tools/)
+[aws-cdk github](https://github.com/aws/aws-cdk)
+
+[aws-cdk](https://aws.amazon.com/developer/tools/)
 
 [aws-cli](https://aws.amazon.com/cli/)
 
