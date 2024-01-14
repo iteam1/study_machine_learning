@@ -7,7 +7,7 @@ Machine learning practices
 |1.|Java| ✅|☒|☒|
 |2.|Scala|☒|☒|☒|
 |3.|Spark|☒|☒|☒|
-|4.|AWS|☒|☒|☒|
+|4.|AWS|✅|☒|☒|
 |5.|Torch|☒|☒|☒|
 |6.|PySpark|☒|☒|☒|
 |7.|DataWars|✅|☒|☒|
